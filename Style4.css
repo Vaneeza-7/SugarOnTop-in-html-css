@@ -1,0 +1,147 @@
+.body{
+  
+   border-style: double;
+   box-sizing: border-box;
+   background-color: rgb(243, 192, 245);
+   border-radius: 10px ;
+ 
+  margin-top: 130px;
+  margin-left: 160px;
+  margin-right: 130px;
+  margin-bottom: 160px;
+  
+}
+body
+{
+     
+     background-image: url('istockphoto-1303182525-612x612.jpg');
+     background-size: 100% 100%;
+     background-attachment: fixed;
+     background-repeat: no-repeat;
+
+}
+
+.logo
+{
+    position: static;
+    left: 50%;
+    top: 50%;
+    right: 70%;
+    text-align: center;
+    height: 70px;
+    width: 100%; 
+    display: block;
+    border-radius: 10%;
+}
+.footer
+{
+    
+    position: relative;
+    height: 100px;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 3rem 0;
+    clear: both;
+    
+}
+
+
+.cartpage{
+margin: 80px auto;
+}
+
+table{
+    width: 50%;
+    border-collapse: collapse;
+    text-align: center;
+    align-content: center;
+    margin-left: 350px;
+}
+
+img {
+    border: solid gray;
+    border-radius: 4px;
+    padding: 5px;
+    width: 80px;
+    height: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  .cart{
+      box-sizing: border-box;
+      border-radius: 10px;
+      font-size: 20px;
+      
+  }
+ 
+
+
+th{
+
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+    background: darkmagenta;
+    font-weight: normal;
+    width: 100%;    
+   
+}
+
+
+td{
+    padding: 30px 30px;
+}
+
+td input{
+
+    width: 40px;
+    height: 30px;
+    padding: 5px;
+    align-items: center;
+}
+
+.total-price{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.total-price table{
+    
+    border-top: 3px solid darkmagenta;
+    margin-right: 300px;
+    width: 300px;
+ max-width: 300px;   
+}
+
+td:last-child{
+    text-align: right;
+
+}
+th:last-child{
+    text-align: right;
+}
+
+
+
+button{
+    
+       
+     
+    background-color: green;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    cursor: pointer;
+    width: 20%;
+    margin-left: 650px;
+  }
+
+
+  p
+  {
+      text-align: center;
+  }

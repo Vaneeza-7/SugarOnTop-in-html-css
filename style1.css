@@ -1,0 +1,77 @@
+body
+{
+     
+     background-image: url('istockphoto-1303182525-612x612.jpg');
+     background-size: 100% 100%;
+     background-attachment: fixed;
+     background-repeat: no-repeat;
+
+}
+
+.logo
+{
+    position: static;
+    left: 50%;
+    top: 50%;
+    right: 70%;
+    text-align: center;
+    height: 70px;
+    width: 100%; 
+    display: block;
+    border-radius: 10%;
+}
+.footer
+{
+    
+    position: relative;
+    height: 100px;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 3rem 0;
+    clear: both;
+    
+}
+ 
+
+      
+p
+{
+     color: black;
+     text-align: center;
+} 
+      
+.carousel 
+{
+    height: 500px;
+}
+
+.carousel-control-next,
+.carousel-control-prev              /*, .carousel-indicators */
+{
+    filter: invert(100%);
+}
+
+.row  
+{
+    display: flex;
+}
+  
+.column 
+{
+    float: right;
+    margin-bottom: 50px; 
+    padding: 30px;
+}
+
+blockquote
+{
+    text-align: center;
+}
+
+marquee
+{
+    color: rgb(158, 32, 216);
+    height: 50px;
+}
