@@ -1,7 +1,10 @@
 # SugarOnTop-in-html-css
-Frontend (only) with HTML, CSS and Bootstrap
-1st Semester Project: MyFoodWebApplication
-Food website based on 5-6 pages
+1st Semester Project: MyFoodWebApplication<br>
+Food website based on 5-6 pages<br>
+Frontend (only) for a bakery shop made with HTML, CSS and Bootstrap. <br>
+It contains 6 pages; signIn page, Home page, Menu Page, Deals Page, Cart page and Payment page respectively.
+
+
 Restrictions:
 1. No template can be used for this project.
 2. Use of WordPress, Joomla, or any other site builder / CMS is strictly PROHIBITED.
